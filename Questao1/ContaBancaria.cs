@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Globalization;
-using Questao1;
 
 namespace Questao1
 {
