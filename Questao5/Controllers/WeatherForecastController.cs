@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Questao5.Infrastructure.Services.Controllers
+namespace Questao5.Controllers
 {
     [ApiController]
     [Route("[controller]")]
